@@ -23,7 +23,7 @@ conda create -n $ENVNAME_FIO  python==3.7
 сonda activate stp2020_zva.
 ```
 
-3. Ознакомиться c главами 1, 2, 3 книги Адитья Бхаргавы «Грокаем алгоритмы» (https://yadi.sk/i/vxc46rgsbi6Pmg). Исходный код к главам книги можно глянуть вот здесь [https://github.com/egonSchiele/grokking_algorithms]
+3. Ознакомиться c главами 1, 2, 3 книги [Адитья Бхаргавы «Грокаем алгоритмы»](https://yadi.sk/i/vxc46rgsbi6Pmg). Исходный код к главам книги можно глянуть вот [здесь](https://github.com/egonSchiele/grokking_algorithms)
 
 ## 1.2 Выполнение
 
