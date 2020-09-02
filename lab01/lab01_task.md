@@ -36,7 +36,7 @@ conda create -n $ENVNAME_FIO  python==3.7
 3 | Binary Insertion Sort | Binary Tree
 4 | Merge Sort | Binary Tree
 5 | Quick Sort (LR) | Stack
-6 | Quick Sort (LL|) | Stack
+6 | Quick Sort (LL) | Stack
 7 | Quick Sort Ternary (LR) | Stack
 8 | Quick Sort Ternary (LL) | Stack
 9 | Quick Sort (Dual pivot) | Stack
