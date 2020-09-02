@@ -11,7 +11,7 @@
 	https://githowto.com/ru
 
 2. Ознакомиться с синтаксисом языка Python
-- Кратко это сделать можно вот тут на [русском](https://learnxinyminutes.com/docs/ru-ru/python-ru), или вот здесь на английском вот [здесь](https://www.w3schools.com/python/default.asp) или [тут](https://jakevdp.github.io/WhirlwindTourOfPython) или в любом другом удобном для Вас источнике.
+- Кратко это сделать можно вот **["LearnXinYminutes"]**(https://learnxinyminutes.com/docs/ru-ru/python-ru), чуть подлинее или здусь **"W3School"** на [русском](https://w3schoolsrus.github.io/python/default.html#gsc.tab=0) или [английском](https://www.w3schools.com/python/default.asp) или на базе [**"WhirlwindTourOfPython"** английском](https://jakevdp.github.io/WhirlwindTourOfPython), или в любом другом удобном для Вас источнике.
 - Для тех кто знакомиться с языком вепрвые рекомендуется по ходу выполнять [упражнения](https://www.w3schools.com/python/exercise.asp) Результаты выполнения упражнений «скриншотьтте» в отчёт в электронном виде, разделяя скриншоты названием тем по упражнениям.
 - *Совет!* Рекомендуется использовать версию языка Python 3.7.5. Для работы рекомендуется использовать дистрибутив Python Anaconda Mini и выполнение самой работы рекомендуется вести в виртуальном окружении, не "смешивая" Ваши версии библиотек и фреймфорков с теми что установлены на компьютере другими пользователями. Для Anaconda такое окружение вы легко можете создать комнадой, со всеми основными пакетами:
 ```python
