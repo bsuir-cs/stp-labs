@@ -31,7 +31,7 @@
 
 3. Важно! На этапе установки (Рис1) выбрать «Add Anaconda to my PATH environment variable». Для того чтобы команда “conda” была доступна из  командной строки в любом каталоге без указания абсолютного пути к исполняемому файлу.
 
-![conda_install_set_path_auto](./assets/img/conda_install_set_path_auto.png)
+<img src="./assets/img/conda_install_set_path_auto.png" width="300" height="300" />
 
 *Интересно! Более подробно для чего и когда нужно прописывать путь к исполняеммы файлам в переменную «PATH» можно почитать, например, [здесь](http://barancev.github.io/what-is-path-env-var/).*
 
