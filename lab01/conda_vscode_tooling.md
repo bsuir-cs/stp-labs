@@ -23,4 +23,41 @@
 
 ## Процесс установки
 
-1. Скачать установщик
+### Anaconda
+
+1. Cкачать акутальную версию [установщика Miniconda](https://docs.conda.io/en/latest/miniconda.html) для вашей платформы.
+
+2. Запустить процесс установки.
+
+3. Важно! На этапе установки (Рис1) выбрать «Add Anaconda to my PATH environment variable». Для того чтобы команда “conda” была доступна из  командной строки в любом каталоге без указания абсолютного пути к исполняемому файлу.
+
+![conda_install_set_path_auto](./assets/img/conda_install_set_path_auto.png)
+
+*Интересно! Более подробно для чего и когда нужно прописывать путь к исполняеммы файлам в переменную «PATH» можно почитать, например, [здесь](http://barancev.github.io/what-is-path-env-var/).*
+
+4. После окончания установки необходимо запустить консоль (Cmd или GitBash) и провереть корректность установки Аnaconda, а также доступность команды «conda» из любой точки файловой системы :
+	- Нажать Win + R => набрать “cmd” (вариант для Cmd)
+	- Нажать кнопку пуск => в установленных программах найти ярлык GitBash
+	- Выполнить команды:
+		```console
+		$> where conda 
+		$> where python
+		```
+	- Вы должны получить похожий ответ:
+
+		![conda_install_check_path](./assets/img/conda_install_check_path.png)
+
+### Visual Studio Code
+
+5. Cкачать акутальную версию [установщика «Visual Studio Code», далее «VSCode»]( https://code.visualstudio.com/) для вашей платформы.
+
+6. Установить «VSCode» при установке желательно также добавить путь к редактору в переменную среды окружения «PATH».
+![vscode_install_set_path_auto](./assets/img/vscode_install_set_path_auto.png)
+
+6. Открыть Visual Studio Сode.
+	- Vj;
+
+
+
+
+ 
