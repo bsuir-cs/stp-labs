@@ -52,7 +52,9 @@
                     |   |
                     |   |_...
                     |
-                    |_project
+                    |_projects
+                        |_shop
+                        |
                         |_library
                         |
                         |_todo
